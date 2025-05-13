@@ -19,7 +19,9 @@
 ### 🔧 Tech Stack & Tools
 
 - 👨‍💻 Languages: Python, Java, SQL
-- 📊 ML/AI: Scikit-Learn, TensorFlow, Keras, XGBoost, Pandas
+- 📊 ML/AI:TensorFlow, Keras, Scikit-learn, Supervised & Unsupervised Learning, Neural Networks, Random Forest, XGBoost
+- 📈 Data Analytics : Pandas, EDA, Business Intelligence, Data-driven Decision Making
+- ✍️ Core Competencies: OOP, Data Structures & Algorithms
 - 🌐 Deployment: Streamlit
 - 🛠️ Tools: Git,Google Colab, Kaggle
 
