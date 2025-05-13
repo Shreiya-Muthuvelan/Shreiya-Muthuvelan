@@ -31,7 +31,7 @@
 
 Here are some of the projects I'm proud of:
 
-- 🔥 [Subtle Sign Detector](https://github.com/Shreiya-Muthuvelan/subtle-sign-detector))  
+- 🔥 [Subtle Sign Detector](https://github.com/Shreiya-Muthuvelan/subtle-sign-detector)
   *A Streamlit app that predicts employee burnout using regression + classification, with personalized wellness suggestions.*
 
 - 💳 [Credit Risk Profiler](https://github.com/Shreiya-Muthuvelan/Credit-Risk-Profiler)  
