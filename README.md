@@ -35,7 +35,7 @@ Here are some of the projects I'm proud of:
   *A Streamlit app that predicts employee burnout using regression + classification, with personalized wellness suggestions.*
 
 - 💳 [Credit Risk Profiler](https://github.com/Shreiya-Muthuvelan/Credit-Risk-Profiler)  
-  *A XGBoost based model to assess credit risk levels (Low, Medium, High) with a banking-themed UI.*
+  *A XGBoost based model to assess credit risk with a banking-themed UI.*
 
 ---
 
