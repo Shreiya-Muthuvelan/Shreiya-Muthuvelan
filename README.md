@@ -7,9 +7,9 @@
 
 ### 🧠 About Me
 
--  I'm currently working on machine learning projects in domains like **finance, mental health, and education**.
--  I love building real-world applications using ML — especially ones that have meaningful impact.
--  Currently diving deep into:
+-  🔭 I'm currently working on machine learning projects in domains like **finance, mental health, and education**.
+-  💡 I love building real-world applications using ML — especially ones that have meaningful impact.
+-  📚 Currently diving deep into:
   - Neural Networks & TensorFlow
   - Model deployment (Streamlit, Hugging Face)
   - Generative AI & Deep Learning
