@@ -7,11 +7,11 @@
 
 ### 🧠 About Me
 
-- 🔭 I'm currently working on machine learning projects in domains like **finance, mental health, and education**.
-- 💡 I love building real-world applications using ML — especially ones that have meaningful impact.
-- 📚 Currently diving deep into:
+-  I'm currently working on machine learning projects in domains like **finance, mental health, and education**.
+-  I love building real-world applications using ML — especially ones that have meaningful impact.
+-  Currently diving deep into:
   - Neural Networks & TensorFlow
-  - Model deployment (Streamlit, FastAPI)
+  - Model deployment (Streamlit, Hugging Face)
   - Generative AI & Deep Learning
 
 ---
@@ -19,9 +19,9 @@
 ### 🔧 Tech Stack & Tools
 
 - 👨‍💻 Languages: Python, Java, SQL
-- 📊 ML/AI: Scikit-Learn, TensorFlow, Keras, XGBoost, OpenCV
+- 📊 ML/AI: Scikit-Learn, TensorFlow, Keras, XGBoost, Pandas
 - 🌐 Deployment: Streamlit
-- 🛠️ Tools: Git, Jupyter, Google Colab, Kaggle
+- 🛠️ Tools: Git,Google Colab, Kaggle
 
 ---
 
@@ -29,20 +29,17 @@
 
 Here are some of the projects I'm proud of:
 
-- 🔥 [Subtle Sign Detector](https://github.com/your-username/subtle-sign-detector)  
+- 🔥 [Subtle Sign Detector](https://github.com/Shreiya-Muthuvelan/subtle-sign-detector))  
   *A Streamlit app that predicts employee burnout using regression + classification, with personalized wellness suggestions.*
 
-- 💳 [Credit Risk Profiler](https://github.com/your-username/credit-risk-profiler)  
-  *A neural network-based model to assess credit risk levels (Low, Medium, High) with a banking-themed UI.*
-
+- 💳 [Credit Risk Profiler](https://github.com/Shreiya-Muthuvelan/Credit-Risk-Profiler)  
+  *A XGBoost based model to assess credit risk levels (Low, Medium, High) with a banking-themed UI.*
 
 ---
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- 📊 [Kaggle](https://www.kaggle.com/your-kaggle)  
-- 📨 Reach out: your.email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/shreiyamuthuvelan/)
 
 ---
 
