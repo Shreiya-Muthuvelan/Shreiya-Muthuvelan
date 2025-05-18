@@ -9,7 +9,7 @@
 
 -  🔭 I'm currently working on machine learning projects in domains like **finance, mental health, and education**.
 -  💡 I love building real-world applications using ML — especially ones that have meaningful impact.
--  - ✍️ Passionate about research — currently preparing a paper on **Age-Invariant Face Recognition**.
+-  ✍️ Passionate about research — currently preparing a paper on **Age-Invariant Face Recognition**.
 -  📚 Currently diving deep into:
   - Neural Networks & TensorFlow
   - Model deployment (Streamlit, Hugging Face)
