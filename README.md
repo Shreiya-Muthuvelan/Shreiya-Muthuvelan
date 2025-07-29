@@ -31,12 +31,14 @@
 ### 📌 Featured Projects
 
 Here are some of the projects I'm proud of:
+- 🕵️‍♀️ [Crime Pattern Clustering](https://github.com/Shreiya-Muthuvelan/Crime-Pattern-Clustering)
+  
+  *A Clustering model to uncover crime hotspots using unsupervised ML and interactive heatmaps for smarter patrol planning.*
 
 - 🔥 [Subtle Sign Detector](https://github.com/Shreiya-Muthuvelan/subtle-sign-detector)
+  
   *A Streamlit app that predicts employee burnout using regression + classification, with personalized wellness suggestions.*
 
-- 💳 [Credit Risk Profiler](https://github.com/Shreiya-Muthuvelan/Credit-Risk-Profiler)  
-  *A XGBoost based model to assess credit risk with a banking-themed UI.*
 
 ---
 
