@@ -60,4 +60,5 @@
 
 ---
 
-<p align="center">💡 Powered by curiosity, coffee, and clean code.</p>
+<p align="center">🎢 Balancing classes, councils, and code — somehow it works.</p>
+
