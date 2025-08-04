@@ -1,51 +1,63 @@
-<h1 align="center">Hi there, I'm Shreiya 👋</h1>
+<h1 align="center">🌸 Hey there, I'm Shreiya!</h1>
 <p align="center">
-  🎓 Computer Science Undergraduate | 🤖 Aspiring ML Engineer | 🇦🇪 BITS Pilani, Dubai Campus
+  🎓 Computer Science Undergrad | 🤖 Aspiring ML Engineer | 🇦🇪 BITS Pilani, Dubai Campus
 </p>
+
+<p align="center">🛠️ Still figuring things out — learning by building, one project at a time.</p>
 
 ---
 
-### 🧠 About Me
+### 💫 Currently...
 
--  🔭 I'm currently working on machine learning projects in domains like **finance, mental health, and education**.
--  💡 I love building real-world applications using ML — especially ones that have meaningful impact.
--  ✍️ Passionate about research — currently preparing a paper on **Age-Invariant Face Recognition**.
--  📚 Currently diving deep into:
-  - Neural Networks & TensorFlow
-  - Model deployment (Streamlit, Hugging Face)
+- 🔬 Preparing my first research paper on **Age-Invariant Face Recognition**
+- 💻 Working on projects in **finance, mental health, and education**
+- 📚 Deep-diving into:
+  - Neural Networks & TensorFlow  
+  - Model deployment with Streamlit & Hugging Face  
   - Generative AI & Deep Learning
 
 ---
 
-### 🔧 Tech Stack & Tools
+### 💼 Featured Projects
 
-- 👨‍💻 Languages: Python, Java, SQL
-- 📊 ML/AI:TensorFlow, Keras, Scikit-learn, Supervised & Unsupervised Learning, Neural Networks, Random Forest, XGBoost
-- 📈 Data Analytics : Pandas, EDA, Business Intelligence, Data-driven Decision Making
-- ✍️ Core Competencies: OOP, Data Structures & Algorithms
-- 🌐 Deployment: Streamlit
-- 🛠️ Tools: Git,Google Colab, Kaggle
+- 🕵️‍♀️ [**Crime Pattern Clustering**](https://github.com/Shreiya-Muthuvelan/Crime-Pattern-Clustering)  
+  *Uncovers crime hotspots using clustering + heatmaps for smarter patrol planning.*
 
----
-
-### 📌 Featured Projects
-
-Here are some of the projects I'm proud of:
-- 🕵️‍♀️ [Crime Pattern Clustering](https://github.com/Shreiya-Muthuvelan/Crime-Pattern-Clustering)
-  
-  *A Clustering model to uncover crime hotspots using unsupervised ML and interactive heatmaps for smarter patrol planning.*
-
-- 🔥 [Subtle Sign Detector](https://github.com/Shreiya-Muthuvelan/subtle-sign-detector)
-  
-  *A Streamlit app that predicts employee burnout using regression + classification, with personalized wellness suggestions.*
-
+- 🔥 [**Subtle Sign Detector**](https://github.com/Shreiya-Muthuvelan/subtle-sign-detector)  
+  *Predicts workplace burnout and offers personalized wellness suggestions. Regression + Classification combo — all wrapped in a friendly Streamlit UI!*
 
 ---
 
-### 📫 Let's Connect
+### 🧠 Tech Stack & Skills
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shreiyamuthuvelan/)
+#### 👩‍💻 Programming Languages  
+- Python  
+- Java  
+
+#### 📚 Core CS Fundamentals  
+- Object-Oriented Programming (OOP)  
+- Data Structures & Algorithms (DSA)  
+- Database Management  
+
+#### 📊 Data Analysis & Visualization  
+- **Data Cleaning**: SQL, Pandas, Python  
+- **Data Visualization**: Matplotlib, Seaborn, Power BI  
+
+#### 🤖 Machine Learning  
+- **Supervised Learning**: Linear Regression, Logistic Regression, Random Forest, XGBoost  
+- **Unsupervised Learning**: K-Means Clustering, Anomaly Detection  
+- Neural Networks (Basic)  
+
+#### 🚀 Deployment & Tools  
+- Streamlit  
+- Git  
 
 ---
 
-<p align="center">🚀 Building for impact. Learning for life. 🤝</p>
+### 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shreiyamuthuvelan/)
+
+---
+
+<p align="center">💡 Powered by curiosity, coffee, and clean code.</p>
