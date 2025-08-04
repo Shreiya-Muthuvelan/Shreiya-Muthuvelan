@@ -7,10 +7,10 @@
 
 ### 🧠 About Me
 
--  I'm currently working on machine learning projects in domains like **finance, mental health, and education**.
--  I love building real-world applications using ML — especially ones that have meaningful impact.
--  Passionate about research — currently preparing a paper on **Age-Invariant Face Recognition**.
--  Currently diving deep into:
+-  🔭 I'm currently working on machine learning projects in domains like **finance, mental health, and education**.
+-  💡 I love building real-world applications using ML — especially ones that have meaningful impact.
+-  ✍️ Passionate about research — currently preparing a paper on **Age-Invariant Face Recognition**.
+-  📚 Currently diving deep into:
   - Neural Networks & TensorFlow
   - Model deployment (Streamlit, Hugging Face)
   - Generative AI & Deep Learning
@@ -19,12 +19,12 @@
 
 ### 🔧 Tech Stack & Tools
 
--  Languages: Python, Java, SQL
--  ML/AI:TensorFlow, Keras, Scikit-learn, Supervised & Unsupervised Learning, Neural Networks, Random Forest, XGBoost
--  Data Analytics : Pandas, EDA, Business Intelligence, Data-driven Decision Making
--  Core Competencies: OOP, Data Structures & Algorithms
--  Deployment: Streamlit
--  Tools: Git,Google Colab, Kaggle
+- 👨‍💻 Languages: Python, Java, SQL
+- 📊 ML/AI:TensorFlow, Keras, Scikit-learn, Supervised & Unsupervised Learning, Neural Networks, Random Forest, XGBoost
+- 📈 Data Analytics : Pandas, EDA, Business Intelligence, Data-driven Decision Making
+- ✍️ Core Competencies: OOP, Data Structures & Algorithms
+- 🌐 Deployment: Streamlit
+- 🛠️ Tools: Git,Google Colab, Kaggle
 
 ---
 
