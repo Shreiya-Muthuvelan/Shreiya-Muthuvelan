@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Hey there, I'm Shreiya!</h1>
+<h1 align="center"> Hey there, I'm Shreiya! 👋 </h1>
 <p align="center">
   🎓 Computer Science Undergrad | 🤖 Aspiring ML Engineer | 🇦🇪 BITS Pilani, Dubai Campus
 </p>
