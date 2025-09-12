@@ -9,7 +9,7 @@
 
 ### 💫 Currently...
 
-- 🔬 Preparing my first research paper on **Age-Invariant Face Recognition**
+- 🔬 Preparing a research paper on **Age-Invariant Face Recognition**
 - 💻 Working on projects in **finance, mental health, and education**
 - 📚 Deep-diving into:
   - Neural Networks & TensorFlow  
