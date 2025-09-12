@@ -44,9 +44,9 @@
 - **Data Visualization**: Matplotlib, Seaborn, Power BI  
 
 #### 🤖 Machine Learning  
-- **Supervised Learning**: Linear Regression, Logistic Regression, Random Forest, XGBoost  
-- **Unsupervised Learning**: K-Means Clustering, Anomaly Detection  
-- Neural Networks (Basic)  
+- **Supervised Learning** 
+- **Unsupervised Learning**
+- **Neural Networks**  
 
 #### 🚀 Deployment & Tools  
 - Streamlit  
