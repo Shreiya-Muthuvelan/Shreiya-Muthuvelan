@@ -10,7 +10,6 @@
 ### 💫 Currently...
 
 - 🔬 Preparing a research paper on **Age-Invariant Face Recognition**
-- 💻 Working on projects in **finance, mental health, and education**
 - 📚 Deep-diving into:
   - Neural Networks & TensorFlow  
   - Model deployment with Streamlit & Hugging Face  
