@@ -15,7 +15,7 @@
 * **Generative AI & DL:** Deep-diving into advanced concepts and practical applications.
 
 ### 🛠️ Deployment & Computer Vision
-* **Vision Frameworks:** Exploring **OpenCV** and **MediaPipe** for real-time applications.
+* **Vision Frameworks:** Exploring **OpenCV** and **PyTorch** for real-time applications.
 * **Model Deployment:** Learning real-world application with **Streamlit** and **Hugging Face**.
 
 
