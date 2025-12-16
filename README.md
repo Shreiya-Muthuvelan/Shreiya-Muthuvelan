@@ -45,7 +45,7 @@
 </p>
 
 ---
-
+<!--
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 
 <p align="center">
@@ -55,6 +55,7 @@
 </p>
 
 ---
+-->
 
 ## 📫 Let’s Connect!
 
