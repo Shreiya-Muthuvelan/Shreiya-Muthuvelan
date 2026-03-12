@@ -7,18 +7,6 @@
 </p>
 
 ---
-
-## 🔭 Currently Hacking On...
-
-### 🔬 Research & Deep Dive
-* **Mamba Architecture for SLT:** Conducting research on how mamba could be used for SLT
-* **Generative AI & DL:** Deep-diving into advanced concepts and practical applications.
-
-### 🛠️ Deployment & Computer Vision
-* **Vision Frameworks:** Exploring **OpenCV** and **PyTorch** for real-time applications.
-* **Model Deployment:** Learning real-world application with **Streamlit** and **Hugging Face**.
-
----
 ## 📄 Research
 
 ### The Aging Challenge: Face Recognition Under Cross-Age Variation
