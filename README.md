@@ -11,13 +11,24 @@
 ## 🔭 Currently Hacking On...
 
 ### 🔬 Research & Deep Dive
-* **Age-Invariant Face Recognition:** Preparing a research paper on robust identity verification.
+* **Mamba Architecture for SLT:** Conducting research on how mamba could be used for SLT
 * **Generative AI & DL:** Deep-diving into advanced concepts and practical applications.
 
 ### 🛠️ Deployment & Computer Vision
 * **Vision Frameworks:** Exploring **OpenCV** and **PyTorch** for real-time applications.
 * **Model Deployment:** Learning real-world application with **Streamlit** and **Hugging Face**.
 
+---
+## 📄 Research
+
+### The Aging Challenge: Face Recognition Under Cross-Age Variation
+**Accepted · IEEE ESCI, 2026**
+
+Benchmarked four baseline face recognition models — ArcFace, FaceNet, VGGFace, and OpenFace — on age-variant datasets (FG-NET and CACD) to evaluate how aging impacts identity verification. Designed and implemented closed-set identification and subject-disjoint verification protocols from scratch, with evaluation across age-bin pairings using AUC and EER metrics.
+
+**Key finding:** VGGFace demonstrated the strongest cross-age robustness; all models showed significant degradation during childhood-to-adulthood transitions.
+
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github&logoColor=white)]([https://github.com/Shreiya-Muthuvelan/face-aging-benchmark](https://github.com/Shreiya-Muthuvelan/cross-age-face-recognition-benchmark))
 
 ---
 
