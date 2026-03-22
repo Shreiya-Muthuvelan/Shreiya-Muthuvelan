@@ -16,7 +16,7 @@ Benchmarked four baseline face recognition models — ArcFace, FaceNet, VGGFace,
 
 **Key finding:** VGGFace demonstrated the strongest cross-age robustness; all models showed significant degradation during childhood-to-adulthood transitions.
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github&logoColor=white)]([https://github.com/Shreiya-Muthuvelan/face-aging-benchmark](https://github.com/Shreiya-Muthuvelan/cross-age-face-recognition-benchmark))
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/Shreiya-Muthuvelan/cross-age-face-recognition-benchmark)
 
 ---
 
