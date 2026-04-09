@@ -14,7 +14,7 @@
 
 ---
 
-I'm a CS undergrad at BITS Pilani Dubai who builds ML systems at the intersection of computer vision, fairness, and data engineering. My work ranges from published research on cross-age face recognition to detecting subtle workplace burnout signals. Right now I'm drawn to problems where model reliability matters — bias in automated decisions, and building pipelines that hold up in production. I learn best by shipping things.
+I'm a CS undergrad who builds ML systems at the intersection of computer vision, fairness, and data engineering. My work ranges from published research on cross-age face recognition to detecting subtle workplace burnout signals. Right now I'm drawn to problems where model reliability matters — bias in automated decisions, and building pipelines that hold up in production. I learn best by shipping things.
 
 ---
 
