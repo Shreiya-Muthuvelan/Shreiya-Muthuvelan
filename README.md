@@ -8,8 +8,6 @@
   <a href="https://www.linkedin.com/in/shreiyamuthuvelan/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=shreiya-muthuvelan&style=flat&color=grey" />
 </p>
 
 ---
