@@ -19,7 +19,7 @@ I'm a CS undergrad who builds ML systems at the intersection of computer vision,
 ## Research
 
 ### The Aging Challenge: Face Recognition Under Cross-Age Variation
-**Accepted · IEEE ESCI 2026**
+**Published · IEEE Explore**
 
 Benchmarked four baseline face recognition models (ArcFace, FaceNet, VGGFace, OpenFace) on age-variant datasets (FG-NET and CACD). Designed closed-set identification and subject-disjoint verification protocols from scratch, with evaluation across age-bin pairings using AUC and EER metrics.
 
