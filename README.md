@@ -35,8 +35,9 @@ Benchmarked four baseline face recognition models (ArcFace, FaceNet, VGGFace, Op
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| **[Fair Flow](https://github.com/Shreiya-Muthuvelan/fair-flow)** | A continuous monitoring and drift detection framework for ML-based loan approval systems. | `Python` `Dash` |
 | **[Crime Pattern Clustering](https://github.com/Shreiya-Muthuvelan/Crime-Pattern-Clustering)** | Uncovers crime hotspots using clustering algorithms and heatmaps to support smarter patrol planning. | `Python` `Scikit-learn` `Folium` |
-| **[Subtle Sign Detector](https://github.com/Shreiya-Muthuvelan/subtle-sign-detector)** | Predicts workplace burnout from subtle behavioural signals and generates personalized wellness suggestions. | `XGBoost` `Python` `Streamlit` |
+
 
 ---
 
