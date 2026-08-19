@@ -15,8 +15,8 @@
   <a href="https://scholar.google.com/citations?hl=en&user=FD1MdNsAAAAJ">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" />
   </a>
-  <a href="mailto:shreiyamuthuvelan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+<a href="mailto:shreiyamuthuvelan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+
   </a>
   <!-- Add your portfolio link here once live, or remove this badge -->
   <!-- 
@@ -167,7 +167,7 @@ Predicts early employee burnout signals from behavioral and activity data, aimed
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shreiyamuthuvelan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shreiyamuthuvelan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="mailto:shreiyamuthuvelan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://scholar.google.com/citations?user=FD1MdNsAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" /></a>
   <!-- Add your portfolio link here once live, or remove this badge 
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white" /></a>-->
