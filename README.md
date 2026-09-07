@@ -142,6 +142,7 @@ Surfaces crime hotspots via clustering and heatmaps to support smarter patrol pl
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="36" height="36" title="Java"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="36" height="36" title="C"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="36" height="36" title="PyTorch"/>&nbsp;
+<img src="https://cdn.simpleicons.org/mlflow" alt="MLflow" width="36" height="36" title="MLflow"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="36" height="36" title="TensorFlow"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="36" height="36" title="Scikit-learn"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="36" height="36" title="OpenCV"/>&nbsp;&nbsp;
