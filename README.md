@@ -102,24 +102,21 @@ Interactive dashboard built on DLD transaction records, analyzing pricing trends
 <tr>
   <td width="50%" valign="top">
 
+**UAE Retail Demand Forecasting**
+Weekly sales forecasting across 1,115 stores using XGBoost, lag/rolling features, and store/calendar attributes, with MLflow experiment tracking and model registry.
+`Python` `XGBoost` `MLflow`
+
+[View Repo →](https://github.com/Shreiya-Muthuvelan/uae-retail-demand-forecasting)
+
+</td>
+
+<td width="50%" valign="top">
+
 **Crime Pattern Clustering**
 Surfaces crime hotspots via clustering and heatmaps to support smarter patrol planning.
 `Python` `Scikit-learn` `Folium`
+
 [View Repo →](https://github.com/Shreiya-Muthuvelan/Crime-Pattern-Clustering)
-
-</td>
-<td width="50%" valign="top">
-
-**Subtle Sign Detector**
-Predicts early employee burnout signals from behavioral and activity data, aimed at flagging risk before it surfaces in performance reviews.
-`Python` `Scikit-learn`
-[View Repo →](https://github.com/Shreiya-Muthuvelan/subtle-sign-detector)
-
-</td>
-
-
-
-<td width="50%" valign="top">
 
 </td>
 </tr>
